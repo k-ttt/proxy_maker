@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{12:function(e,n,t){e.exports=t(21)},21:function(e,n,t){"use strict";t.r(n);var r=t(0),o=t.n(r),c=t(9),l=t(11),u=t(3),a=Object(u.b)(function(){return{}});Object(c.render)(o.a.createElement(l.a,{store:a},o.a.createElement(function(){return o.a.createElement("div",null,"Hellow World!")},null)),document.getElementById("root"))}},[[12,1,2]]]);
+//# sourceMappingURL=main.6b33cad0.chunk.js.map
