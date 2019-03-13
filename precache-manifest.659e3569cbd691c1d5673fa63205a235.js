@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/proxy_maker/static/js/runtime~main.6c6acd12.js"
   },
   {
-    "revision": "b01f250eb2e1284f1027",
-    "url": "/proxy_maker/static/js/main.b01f250e.chunk.js"
+    "revision": "37372d43435650531032",
+    "url": "/proxy_maker/static/js/main.37372d43.chunk.js"
   },
   {
     "revision": "ff17166daf99f646cfb3",
     "url": "/proxy_maker/static/js/2.ff17166d.chunk.js"
   },
   {
-    "revision": "b01f250eb2e1284f1027",
-    "url": "/proxy_maker/static/css/main.5bc436b3.chunk.css"
+    "revision": "37372d43435650531032",
+    "url": "/proxy_maker/static/css/main.bae381b2.chunk.css"
   },
   {
-    "revision": "fd8be6834cf6441cb0d38e116b3d50e5",
+    "revision": "9e7a892101bd6d508d2704ea9cafd5f1",
     "url": "/proxy_maker/index.html"
   }
 ];
