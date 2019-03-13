@@ -1,13 +1,13 @@
 {
-  "main.css": "/proxy_maker/static/css/main.bae381b2.chunk.css",
-  "main.js": "/proxy_maker/static/js/main.37372d43.chunk.js",
-  "main.js.map": "/proxy_maker/static/js/main.37372d43.chunk.js.map",
+  "main.css": "/proxy_maker/static/css/main.8b0fd33b.chunk.css",
+  "main.js": "/proxy_maker/static/js/main.dbf958ce.chunk.js",
+  "main.js.map": "/proxy_maker/static/js/main.dbf958ce.chunk.js.map",
   "runtime~main.js": "/proxy_maker/static/js/runtime~main.6c6acd12.js",
   "runtime~main.js.map": "/proxy_maker/static/js/runtime~main.6c6acd12.js.map",
   "static/js/2.ff17166d.chunk.js": "/proxy_maker/static/js/2.ff17166d.chunk.js",
   "static/js/2.ff17166d.chunk.js.map": "/proxy_maker/static/js/2.ff17166d.chunk.js.map",
   "index.html": "/proxy_maker/index.html",
-  "precache-manifest.659e3569cbd691c1d5673fa63205a235.js": "/proxy_maker/precache-manifest.659e3569cbd691c1d5673fa63205a235.js",
+  "precache-manifest.7826f4eaa4dddc4aea0264c9d189bddd.js": "/proxy_maker/precache-manifest.7826f4eaa4dddc4aea0264c9d189bddd.js",
   "service-worker.js": "/proxy_maker/service-worker.js",
-  "static/css/main.bae381b2.chunk.css.map": "/proxy_maker/static/css/main.bae381b2.chunk.css.map"
+  "static/css/main.8b0fd33b.chunk.css.map": "/proxy_maker/static/css/main.8b0fd33b.chunk.css.map"
 }
